@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arvind.
-- 👀 I’m interested in UX, Fullstack Web Development, Data Science and how it all comes together.
-- 🌱 I’m currently learning Advanced backend development, security and cloud architecture.
+👋 Hi, I’m Arvind.
+👀 I’m interested in UX Design, Fullstack Web Development, Data Science and how it all comes together.
+🌱 I’m currently learning Advanced backend development, security and cloud architecture.
 
  <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
